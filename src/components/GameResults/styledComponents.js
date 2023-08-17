@@ -13,6 +13,7 @@ export const GameContainer = styled.div`
   width: 250px;
   height: 250px;
   margin-left: 15px;
+  }
 `
 export const GameButton = styled.button`
   width: 150px;
